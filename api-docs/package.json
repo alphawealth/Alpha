@@ -25,7 +25,7 @@
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-eslint": "^4.0.5",
-    "eslint": "^0.24.1",
+    "eslint": "^4.18.2",
     "eslint-plugin-babel": "^1.2.0",
     "eslint-plugin-no-multiline-vars": "git+https://github.com/abuecker/eslint-plugin-no-multiline-vars.git",
     "eslint-plugin-no-tabs": "git+https://github.com/abuecker/eslint-plugin-no-tabs.git",
