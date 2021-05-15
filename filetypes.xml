@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="String" type="CLASS" />
       <mapping pattern="StringTraining" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
